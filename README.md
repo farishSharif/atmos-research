@@ -10,9 +10,10 @@
 Modern organizations frequently rely on subjective intuition or fragmented anecdotal feedback to design workplace policies, often resulting in misallocated HR budgets and suboptimal employee output.
 
 **Atmos** bridges management theory with real-time empirical science. It provides an end-to-end research pipeline featuring:
-1. **Anonymous Multi-step Psychometric Survey** (20 Likert-scale items across 4 environmental dimensions + employee performance).
-2. **Zero-Dependency In-House Statistical Engine** (Sample means, Bivariate Pearson correlation, Ordinary Least Squares multiple linear regression, and Cronbach's alpha reliability).
-3. **Password-Gated Executive Dashboard** with dynamic visualization, sector/age breakdowns, primary predictor extraction, and raw CSV dataset export.
+1. **Anonymous Multi-step Psychometric Survey** (20 Likert-scale items across 4 environmental dimensions + employee performance) with interactive section navigator, real-time live section score tracking, and instant **⚡ Expo Auto-Fill** presets (*High Performer*, *Stress Case*).
+2. **Instant Personal Diagnostic Workplace Report** generated dynamically upon submission (personal composite factor breakdown bars and customized workplace persona diagnosis).
+3. **Zero-Dependency In-House Statistical Engine** (Sample means, Bivariate Pearson correlation, Ordinary Least Squares multiple linear regression, and Cronbach's alpha reliability).
+4. **Password-Gated Executive Dashboard** with dynamic visualization, sector/age breakdowns, primary predictor extraction, and raw CSV dataset export.
 
 ---
 
